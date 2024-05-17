@@ -236,7 +236,7 @@ with tab2:
        st.video("https://youtu.be/uNpIaQk6ikg")
 
 little = """
-    www.pedroschreier.de | 2024
+    https://pedroschreier.streamlit.app | 2024
     """
 with st.expander("Contact"):
     st.write('''
